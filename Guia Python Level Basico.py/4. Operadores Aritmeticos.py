@@ -23,6 +23,8 @@ Division_Baja = 12//5
 #Resto o Modulo 
 Resto = 12%5
 
+print (Resto)
+
 Tipo_de_Dato = type (12)# devuelve que tipo de dato es
 
 print(Division)
