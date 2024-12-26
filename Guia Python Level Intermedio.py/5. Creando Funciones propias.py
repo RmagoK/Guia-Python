@@ -65,6 +65,6 @@ def crear_contrasena_random(num):
     return (contrasena)
 
 # Se llama a la función crear_contrasena_random con el argumento 98, lo que inicia la ejecución del código.
-password = crear_contrasena_random(98)
+password = crear_contrasena_random(9787)
 valor = (f"Su  nueva contrasena es: {password}")
 print (valor)
