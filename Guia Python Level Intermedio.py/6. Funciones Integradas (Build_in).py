@@ -38,3 +38,4 @@ print (resultado_all)
 
 suma_iterables = sum(lista)
 print (suma_iterables)
+

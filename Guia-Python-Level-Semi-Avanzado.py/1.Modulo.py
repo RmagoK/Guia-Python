@@ -5,16 +5,16 @@
 #print(math.sqrt(16))  # Salida: 4.0
 
 #Importando un modulo y asignandole un nombre "M_Saludar"
-import Modulo_saludar as M_Saludar
+#import Modulo_saludar as M_Saludar
 
 #creando una variable que use el modulo y su respectiva funcion (.saludar) mientras asignamos el nombre de usuario
-saludando = M_Saludar.saludar("Emperatriz")
+#saludando = M_Saludar.saludar("Emperatriz")
 
 #imprimimos la variable salundando
-print (saludando)
+#print (saludando)
 
 # Importamos el modulo, modulo_saludar y usamos sus dos funciones el cual usando "as" le asignamos otro nombre al metodo
-from Modulo_saludar import saludar as saludar_Normal, saludar_raro as saludo_rarisimo
+from funciones_buenas.Modulo_saludar import saludar as saludar_Normal, saludar_raro as saludo_rarisimo
 
 #creamos dos variables con las respectivas funciones y usuarios
 saludando = saludar_Normal("Emperatriz")
@@ -25,6 +25,6 @@ print (saludando)
 print (saludarraro)
 
 #para ver las propiedades y metodos del namespace
-print(dir(M_Saludar))
+print(dir(saludar_Normal))
 
 print(__name__)
