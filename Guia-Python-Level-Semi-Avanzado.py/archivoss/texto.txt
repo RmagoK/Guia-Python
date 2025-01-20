@@ -1,11 +1,3 @@
-linea 1 agregada 
-linea 2 agregada 
-linea 3 agregada 
-linea 4 agregada 
-linea 5 agregada 
-
-linea 1 agregada 
-linea 2 agregada 
-linea 3 agregada 
-linea 4 agregada 
-linea 5 agregada 
+"Rosheed","Mago",23
+"Maria","Emperatriz",24
+"Carlos","Maxstar",23

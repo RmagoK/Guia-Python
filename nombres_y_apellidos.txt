@@ -1,0 +1,10 @@
+los datos son: 
+nombre: Rosheed
+ Apellido Mago
+ ---------------------nombre: Carlos
+ Apellido Silva
+ ---------------------nombre: Alejandro
+ Apellido Jimenez
+ ---------------------nombre: Jonathan
+ Apellido Centeno
+ ---------------------
